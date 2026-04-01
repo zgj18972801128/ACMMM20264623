@@ -10,14 +10,61 @@ This paper addresses the challenge of reconstructing photorealistic and animatab
 ---
 
 # Intuitive Comparison with the SOTA method
-These videos show the performance gap between our method and the baseline. Our model yields visibly superior results, characterized by reductions in artifacts and enhanced details.
+These videos show the performance gap between our method and the SOTA method (also our baseline, ExAvatar). Our model yields visibly superior results, characterized by reductions in artifacts and enhanced details.
 
 <div align="center">
-  <video src="meta/1-1.mp4" width="600px" controls autoplay loop muted playsinline>
-  </video>
+  <img src="meta/1-1.gif" width="600px" alt="Demonstration GIF">
 </div>
 
 ---
+
+<div align="center">
+  <img src="meta/1-2.gif" width="600px" alt="Demonstration GIF">
+</div>
+
+---
+
+<div align="center">
+  <img src="meta/2-1.gif" width="600px" alt="Demonstration GIF">
+</div>
+
+---
+
+
+<div align="center">
+  <img src="meta/2-2.gif" width="600px" alt="Demonstration GIF">
+</div>
+
+---
+
+
+<div align="center">
+  <img src="meta/3-1.gif" width="600px" alt="Demonstration GIF">
+</div>
+
+---
+
+<div align="center">
+  <img src="meta/3-2.gif" width="600px" alt="Demonstration GIF">
+</div>
+
+---
+
+
+<div align="center">
+  <img src="meta/4-1.gif" width="600px" alt="Demonstration GIF">
+</div>
+
+---
+
+
+<div align="center">
+  <img src="meta/4-2.gif" width="600px" alt="Demonstration GIF">
+</div>
+
+---
+
+
 
 
 
