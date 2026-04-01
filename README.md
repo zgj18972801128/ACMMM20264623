@@ -1,4 +1,4 @@
-# ACMMM20264623
+# ACMMM2026
 # Generator–Refiner–Examiner: A Tri-Module Data Augmentation Framework for 3D Human Avatar Learning from Monocular Videos
 
 ---
