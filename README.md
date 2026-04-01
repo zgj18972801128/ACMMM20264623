@@ -12,63 +12,12 @@ This paper addresses the challenge of reconstructing photorealistic and animatab
 # Intuitive Comparison 
 These videos show the performance gap between our method and the baseline. Our model yields visibly superior results, characterized by reductions in artifacts and enhanced details.
 
-<center>
-<table align="center" style="border-collapse: collapse; width: 100%;">
-  <thead>
-    <tr align="center">
-      <th>Input Image</th>
-      <th>Ours</th>
-      <th>PSHuman</th>
-      <th>GTA</th>
-      <th>ICON</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr align="center">
-      <td>
-        <img src="data/ood_28/1095.jpg" alt="Input Image" width="250px" style="max-width: 100%;">
-      </td>
-      <td>
-        <img src="data/texture/other_2_gif/ours.gif" alt="Ours" width="250px" style="max-width: 100%;">
-      </td>
-      <td>
-        <img src="data/texture/other_2_gif/pshuman.gif" alt="PSHuman" width="250px" style="max-width: 100%;">
-      </td>
-      <td>
-        <img src="data/texture/other_2_gif/GTA.gif" alt="GTA" width="250px" style="max-width: 100%;">
-      </td>
-      <td>
-        <img src="data/texture/other_2_gif/ECON.gif" alt="ICON" width="250px" style="max-width: 100%;">
-      </td>
-    </tr>
-    <tr align="center">
-      <th>SiFU</th>
-      <th>SiTH</th>
-      <th>Human3diff</th>
-      <th>PiFu</th>
-      <th>ECON</th>
-    </tr>
-    <tr align="center">
-      <td>
-        <img src="data/texture/other_2_gif/SiFU.gif" alt="SiFU" width="250px" style="max-width: 100%;">
-      </td>
-      <td>
-        <img src="data/texture/other_2_gif/SiTH.gif" alt="SiTH" width="250px" style="max-width: 100%;">
-      </td>
-      <td>
-        <img src="data/texture/other_2_gif/Human3diff.gif" alt="Human3diff" width="250px" style="max-width: 100%;">
-      </td>
-      <td>
-        <img src="data/texture/other_2_gif/PiFU.gif" alt="PiFu" width="250px" style="max-width: 100%;">
-      </td>
-      <td>
-        <img src="data/texture/other_2_gif/ECON.gif" alt="ECON" width="250px" style="max-width: 100%;">
-      </td>
-    </tr>
-  </tbody>
-</table>
-</center>
-
+<div align="center">
+  <video width="600px" controls autoplay loop muted playsinline>
+    <source src="meta/1-1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
