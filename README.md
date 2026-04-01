@@ -13,9 +13,7 @@ This paper addresses the challenge of reconstructing photorealistic and animatab
 These videos show the performance gap between our method and the baseline. Our model yields visibly superior results, characterized by reductions in artifacts and enhanced details.
 
 <div align="center">
-  <video width="600px" controls autoplay loop muted playsinline>
-    <source src="meta/1-1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+  <video src="meta/1-1.mp4" width="600px" controls autoplay loop muted playsinline>
   </video>
 </div>
 
